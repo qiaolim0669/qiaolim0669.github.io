@@ -1,9 +1,9 @@
-let ownerName = "Your Name"
-let userName = "YourUsername";
+let ownerName = "Qiaoli Mei"
+let userName = "qiaolim0669";
 
 document.querySelectorAll(".owner-name").forEach((e) => {
-    e.innerHTML = ownerName;
+    e.innerHTML = Qiaoli M;
 });
 
-document.querySelector("#github").href = "http://github.com/" + userName;
-document.querySelector("#fork").href = "http://github.com/" + userName + "/" + userName + ".github.io";
+document.querySelector("#github").href = "http://github.com/" + qiaolim0669;
+document.querySelector("#fork").href = "http://github.com/" + qiaolim0669 + "/" + qiaolim0669 + ".github.io";
